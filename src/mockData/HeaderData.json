@@ -1,0 +1,17 @@
+{
+   "headerData": [ 
+       {
+        "logoPrefixName": "Admin",
+        "logosuffixName": "LTE",
+        "sidebartoggle": "Toggle navigation",
+        "headerNavItems": [
+            {
+                "className": "fa fa-envelope-o",
+                "labelIconMsg": "4",
+                "labelMessage": "You have 4 messages"
+            }
+        ]
+       }      
+    ]
+     
+}
